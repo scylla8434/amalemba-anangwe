@@ -7,9 +7,7 @@ Welcome to my personal Portfolio! This portfolio showcases my skills, projects, 
 
 You can view the live version of my portfolio here:  
 
-🔹 **GitHub Pages**: [https://scylla8434.github.io/teddy-anangwe/](https://scylla8434.github.io/teddy-anangwe/)  
-🔹 **Vercel**: [https://teddy-anangwe.vercel.app](https://teddy-anangwe.vercel.app)  
-
+🔹 **GitHub Pages**: [https://scylla8434.github.io/teddy-anangwe/](https://scylla8434.github.io/amalemba-anangwe/)  
 
 
 ## 📜 About the Portfolio
@@ -27,7 +25,7 @@ This portfolio is built to **highlight my expertise in software development and 
 This portfolio was built using the following technologies:
 
 - **Frontend and backend**: HTML, CSS, JavaScript
-- **Deployment**: GitHub Pages, Vercel  
+- **Deployment**: GitHub Pages 
 
 
 ## 📌 How to Run Locally
@@ -64,30 +62,12 @@ To deploy the portfolio using GitHub Pages:
 5. **Your portfolio will be live at**  
    `https://your-github-username.github.io/your-portfolio`
 
-### **🔹 2. Deploying on Vercel**
-To deploy using Vercel:
-
-1. **Install Vercel CLI (if not installed)**
-   ```bash
-   npm install -g vercel
-   ```
-2. **Login to Vercel**
-   ```bash
-   vercel login
-   ```
-3. **Deploy your portfolio**
-   ```bash
-   vercel --prod
-   ```
-4. **Vercel will generate a live link**, something like:  
-   `https://your-portfolio.vercel.app`
-
 ---
 
 ## 📞 Contact
 
 📧 **Email**: [teddyanangwe@gmail.com](mailto:teddyanangwe@gmail.com)  
-🌍 **Website**: [teddy-anangwe.vercel.app](https://teddy-anangwe.vercecd l.app)  
+🌍 **Website**: [teddy-anangwe.vercel.app](https://teddy-anangwe.vercel.app)  
 💼 **LinkedIn**: [linkedin.com/in/amalemba-anangwe](https://linkedin.com/in/teddy-anangwe)  
 🐙 **GitHub**: [github.com/Scylla8434](https://github.com/Scylla8434)  
 
