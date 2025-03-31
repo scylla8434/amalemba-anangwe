@@ -15,7 +15,7 @@ You can view the live version of my portfolio here:
 This portfolio is built to **highlight my expertise in software development and cybersecurity**. It features:  
 ✔ **Responsive Design** (Mobile & Desktop)  
 ✔ **Projects Showcase** (Detailed descriptions & links)  
-✔ **Stylish UI/UX** (Bootstrap & custom styling)  
+✔ **Stylish UI/UX** (Custom styling)  
 ✔ **Dark Theme Background Effects**  
 
 
