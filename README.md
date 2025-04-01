@@ -67,7 +67,7 @@ To deploy the portfolio using GitHub Pages:
 ## 📞 Contact
 
 📧 **Email**: [teddyanangwe@gmail.com](mailto:teddyanangwe@gmail.com)  
-🌍 **Website**: [https://teddy-anangwe.vercel.app](https://teddy-anangwe.vercel.app)  
+🌍 **Website**: [teddy-anangwe.vercel.app](teddy-anangwe)  
 💼 **LinkedIn**: [https://linkedin.com/in/amalemba-anangwe](https://linkedin.com/in/teddy-anangwe)  
 🐙 **GitHub**: [https://github.com/Scylla8434](https://github.com/Scylla8434)  
 
